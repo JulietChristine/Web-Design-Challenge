@@ -58,11 +58,11 @@
   
   p:not(.intro) {
     text-align: justify;
-    color: #7e7e7e;
+    color: #43d6b6;
   }
   
   .thumbnail {
-    width:50%;
+    width:64%;
   }
   
   .main-image {      
