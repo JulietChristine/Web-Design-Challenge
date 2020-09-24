@@ -21,12 +21,6 @@
   margin-left: 5%;
 }
 
-/* .navbar-collapse {
-  position: absolute;
-  right: 5%;
-  font-size: small;
-} */
-
 .nav-item {
   font-weight: bold;
 }
@@ -114,7 +108,6 @@ div.col-sm-12.col-md-12 p {
   }
   .navbar div {
     margin: inherit;
-    background-color: white;
   }
   .navbar-brand {
     padding: 10px;
@@ -122,8 +115,8 @@ div.col-sm-12.col-md-12 p {
   button{
     margin-right: 30px;
   }
-  button:focus {
+  /* button:focus {
     outline: 1px dotted;
     outline: auto 5px;
-  }
+  } */
 }
