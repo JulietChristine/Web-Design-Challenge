@@ -8,6 +8,12 @@
   color: mediumaquamarine;
 }
 
+.navbar-collapse {
+  position: absolute;
+  right: 5%;
+  font-size: small;
+}
+
 .navbar {
   width: 100%;
   padding: 5px;
