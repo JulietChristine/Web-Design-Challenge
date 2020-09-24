@@ -8,15 +8,11 @@
   color: mediumaquamarine;
 }
 
-.navbar-collapse {
-  right: 5%;
-  font-size: small;
-}
-
 .navbar {
   width: 100%;
   padding: 5px;
   max-height: 50px;
+  right: 5%;
 }
 
 .navigation .navbar-brand {
