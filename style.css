@@ -1,6 +1,6 @@
 
 .body {
-  font-size: 25px;
+  font-size: 18px;
 
 }
 
@@ -28,7 +28,6 @@
 
 .nav-item {
   font-weight: bold;
-  color: mediumaquamarine;
 }
 
 .content {
@@ -39,6 +38,7 @@
   
 .buttons {
   margin-bottom: .5em;
+  color: mediumaquamarine;
 }
 
 .text-left {
@@ -83,6 +83,7 @@ div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
 .imagetiles {
   background-color: mediumaquamarine;
 }
+
 div.imagetiles div.col-lg-6.col-sm-12 img {
   width: 100%;
 }
