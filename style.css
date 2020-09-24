@@ -31,13 +31,13 @@ body {
 }
 
 .content {
-  width:90%;
-  margin: 10px auto;
+  width: 90%;
+  margin: 20px auto;
   padding: 1em;
 }
   
 .buttons {
-  margin-bottom: 2em;
+  margin-bottom: .5em;
 }
 
 .text-left {
@@ -93,7 +93,7 @@ div.col-sm-12.col-md-12 p {
 
 .panel-body:hover {
   border-color: rgb(238, 135, 87);
-  border size: 50px;
+  border size: 10px;
 }
 
 @include media-breakpoint-down(md) {
