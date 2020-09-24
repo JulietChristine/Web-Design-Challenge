@@ -103,7 +103,30 @@ div.col-sm-12.col-md-12 p {
   }
 }
 
-@media (max-width: 480px) {
-  nav ul     { display: none; }
-  nav select { display: inline-block; }
+@media(max-width: 680px) {
+  .navbar-expand-lg {
+  background-color: #000000;
+  }
+  .navbar {
+    max-height: none;
+    padding: inherit;
+  }
+  .navbar div {
+    margin: inherit;
+    background-color: white;
+  }
+  .navbar-brand {
+    padding: 10px;
+  }
+  /* button{
+    margin-right: 30px;
+  }
+  button:focus {
+    outline: 1px dotted;
+    outline: auto 5px;
+  }
 }
+@media (max-width: 600px) {
+  nav li     { display: none; }
+  nav select { display: inline-block; }
+} */
