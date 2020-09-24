@@ -1,7 +1,7 @@
 
 body {
-  font-size: 1.1em;
-  background-color: rgb(238, 135, 87);
+  font-size: 1.5em;
+
 }
 
 .navbar-light .navbar-brand {
@@ -34,20 +34,22 @@ body {
 .content {
   width:90%;
   margin: 20px auto;
-  padding:1.5em;
+  padding: 10em;
 }
   
 .buttons {
-  margin-bottom: 1.5em;
+  margin-bottom: 10em;
 }
 
 .text-left {
   text-align: left;
   font-weight: bolder;
+  color: rgb(238, 135, 87)
 }
 
 .text-center {
   font-weight: bolder;
+  color: rgb(238, 135, 87)
 }
 
 p:not(.intro) {
