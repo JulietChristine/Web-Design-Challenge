@@ -118,14 +118,14 @@ div.col-sm-12.col-md-12 p {
   .navbar-brand {
     padding: 10px;
   }
-  /* button{
+  button{
     margin-right: 30px;
   }
   button:focus {
     outline: 1px dotted;
     outline: auto 5px;
   }
-}
+/* }
 @media (max-width: 600px) {
   nav li     { display: none; }
   nav select { display: inline-block; }
