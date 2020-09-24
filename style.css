@@ -11,20 +11,21 @@
 .navbar {
   width: 100%;
   padding: 5px;
+  max-height: 50px;
 }
 
-.navbar-brand {
+.navigation .navbar-brand {
   font-size: 25px;
   font-weight: bolder;
-  padding: 10px;
+  padding: inherit;
   margin-left: 5%;
 }
 
-.navbar-collapse {
+/* .navbar-collapse {
   position: absolute;
   right: 5%;
   font-size: small;
-}
+} */
 
 .nav-item {
   font-weight: bold;
