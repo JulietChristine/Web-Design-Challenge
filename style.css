@@ -43,12 +43,12 @@ body {
 .text-left {
   text-align: left;
   font-weight: bolder;
-  color: rgb(238, 135, 87);
+  color: #F3969A;
 }
 
 .text-center {
   font-weight: bolder;
-  color: rgb(238, 135, 87);
+  color: #F3969A;
 }
 
 p:not(.intro) {
@@ -72,7 +72,7 @@ p:not(.intro) {
 }
 
 .col-sm-12,.col-md-4 {
-  background-color: background-color: rgb(238, 135, 87);
+  background-color: white;
 }
 
 div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
