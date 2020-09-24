@@ -1,8 +1,7 @@
-/* styling for Pen, not related to box-sizing or layout */
 
 body {
   font-size: 1.1em;
-  background-color:#eee;
+  background-color: rgb(238, 135, 87);
 }
 
 .navbar-light .navbar-brand {
@@ -68,7 +67,7 @@ p:not(.intro) {
 }
 
 .col-md-8 {
-  background-color: white;
+  background-color:  rgb(238, 135, 87);
 }
 
 .col-sm-12,.col-md-4 {
