@@ -1,5 +1,5 @@
 
-body {
+.body {
   font-size: 25px;
 
 }
@@ -28,6 +28,7 @@ body {
 
 .nav-item {
   font-weight: bold;
+  color: mediumaquamarine;
 }
 
 .content {
