@@ -111,10 +111,10 @@ div.col-sm-12.col-md-12 p {
     max-height: none;
     padding: inherit;
   }
-  /* .navbar div {
+  .navbar div {
     margin: inherit;
     background-color: white;
-  } */
+  }
   .navbar-brand {
     padding: 10px;
   }
