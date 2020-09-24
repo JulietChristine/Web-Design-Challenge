@@ -9,7 +9,6 @@ body {
 }
 
 .navbar {
-  background-color: mediumaquamarine;
   width: 100%;
   padding: 5px;
 }
@@ -44,12 +43,12 @@ body {
 .text-left {
   text-align: left;
   font-weight: bolder;
-  color: rgb(238, 135, 87)
+  color: rgb(238, 135, 87);
 }
 
 .text-center {
   font-weight: bolder;
-  color: rgb(238, 135, 87)
+  color: rgb(238, 135, 87);
 }
 
 p:not(.intro) {
@@ -73,7 +72,7 @@ p:not(.intro) {
 }
 
 .col-sm-12,.col-md-4 {
-  background-color: white;
+  background-color: background-color: rgb(238, 135, 87);
 }
 
 div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
