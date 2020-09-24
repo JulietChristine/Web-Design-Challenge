@@ -68,7 +68,7 @@ p:not(.intro) {
 }
 
 .col-md-8 {
-  background-color:  rgb(238, 135, 87);
+  background-color:  white;
 }
 
 .col-sm-12,.col-md-4 {
@@ -92,7 +92,7 @@ div.col-sm-12.col-md-12 p {
 }
 
 .panel-body:hover {
-  border-color: rgb(238, 135, 87);
+  border-color: white;
   border size: 10px;
 }
 
