@@ -21,7 +21,7 @@
     background-color: rgb(20, 150, 150);
     padding: 10px;
     margin-left: 5%;
-  }
+  } */
   
   .navbar-collapse {
     position: absolute;
@@ -29,9 +29,9 @@
     font-size: small;
   }
   
-  .nav-item {
+  /* .nav-item {
     font-weight: bold;
-  }
+  } */
   
   .content {
     width:90%;
@@ -60,7 +60,7 @@
     text-align: justify;
     color: #7e7e7e;
   }
-   */
+  
   .thumbnail {
     width:50%;
   }
