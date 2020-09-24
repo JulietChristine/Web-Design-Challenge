@@ -30,6 +30,10 @@
   font-weight: bold;
 }
 
+.nav-link {
+  color: mediumaquamarine;
+}
+
 .content {
   width: 90%;
   margin: 20px auto;
@@ -38,7 +42,6 @@
   
 .buttons {
   margin-bottom: .5em;
-  color: mediumaquamarine;
 }
 
 .text-left {
