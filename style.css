@@ -62,7 +62,7 @@ p:not(.intro) {
     float: left;
 }
 
-.col-md-8 {
+/* .col-md-8 {
   background-color:  white;
 }
 
@@ -90,7 +90,7 @@ div.col-sm-12.col-md-12 p {
 .panel-body:hover {
   border-color: white;
   border size: 10px;
-}
+} */
 
 /* @include media-breakpoint-down(md) {
   .col-md-8 {
