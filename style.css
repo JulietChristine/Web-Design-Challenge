@@ -112,16 +112,4 @@ div.col-sm-12.col-md-12 p {
   .navbar-brand {
     padding: 10px;
   }
-  button{
-    margin-right: 30px;
-  }
-  button:focus {
-    outline: 1px dotted;
-    outline: auto 5px;
-  }
-}
-@media screen and (max-width: 992px) {
-  .column {
-    width: 100%;
-  }
 }
