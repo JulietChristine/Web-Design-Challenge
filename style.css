@@ -79,7 +79,6 @@ p:not(.intro) {
 }
 @media screen and (max-width: 680px) {
   .img {
-    display: inline-block;
     width: 25%;
     padding: 5px;
   }
