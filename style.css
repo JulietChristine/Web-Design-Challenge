@@ -112,7 +112,10 @@ div.col-sm-12.col-md-12 p {
   .navbar-brand {
     padding: 10px;
   }
-  /* button{
-    margin-right: 30px;
-  } */
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
