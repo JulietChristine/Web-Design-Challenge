@@ -114,14 +114,14 @@ div.col-sm-12.col-md-12 p {
   }
 }
 @media (max-width: 770px){
-  .img {
+  .column {
     display: inline;
     width: 100%;
     padding: 5px;
   }
 }
-
-/* @media screen and (max-width: 600px) {
+/* 
+@media screen and (max-width: 680px) {
   .column {
     width: 100%;
   }
