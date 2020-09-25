@@ -76,6 +76,8 @@ p:not(.intro) {
   .navbar-brand {
     padding: 10px;
   }
+}
+@media screen and (max-width: 680px) {
   .my-4 {
     display: inline;
     width: 25%;
