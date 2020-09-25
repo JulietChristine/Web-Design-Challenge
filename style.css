@@ -120,3 +120,8 @@ div.col-sm-12.col-md-12 p {
     outline: auto 5px;
   }
 }
+@media screen and (max-width: 992px) {
+  .column {
+    width: 100%;
+  }
+}
