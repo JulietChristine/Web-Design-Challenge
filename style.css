@@ -78,7 +78,7 @@ p:not(.intro) {
   }
 }
 @media screen and (max-width: 680px) {
-  .my-4 {
+  .img {
     display: inline;
     width: 25%;
     padding: 5px;
