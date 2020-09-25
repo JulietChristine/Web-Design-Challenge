@@ -61,6 +61,19 @@ p:not(.intro) {
     width: 40%;
     float: left;
 }
+div.imagetiles div.col-lg-6.col-sm-12 img {
+  width: 100%;
+}
+
+div.col-sm-12.col-md-12 p {
+  color: black;
+  font-size: medium;
+}
+
+.panel-body:hover {
+  border-color: white;
+  border-width: 10px;
+}
 
 @media(max-width: 992px) {
   .navbar-expand-lg {
